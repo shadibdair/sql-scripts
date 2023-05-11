@@ -1,0 +1,26 @@
+[
+    {
+      "product_id" : "1",
+      "name" : "milk",
+      "user_email": "person1@gmail.com",
+      "start_date" : "21/02/2023",
+      "expiration_date" : "11/02/2023",
+      "amount" : 4
+    },
+    {
+      "product_id" : "2",
+      "name" : "egg",
+      "user_email": "person2@gmail.com",
+      "start_date" : "15/01/2023",
+      "expiration_date" : "14/05/2023",
+      "amount" : 6
+    },
+    {
+        "product_id" : "3",
+        "name" : "yogurt",
+        "user_email": "person3@gmail.com",
+        "start_date" : "15/01/2023",
+        "expiration_date" : "16/05/2023",
+        "amount" : 5
+    }
+]
