@@ -29,7 +29,7 @@ import sqlite3
 from datetime import datetime, timedelta
 
 # Connect to the SQLite database
-conn = sqlite3.connect('/Users/shadibadir/Desktop/hackathon-tsofen-2023/sql-json/my_database.db')
+conn = sqlite3.connect('/my_database.db')
 c = conn.cursor()
 
 # Query the 'products' table
