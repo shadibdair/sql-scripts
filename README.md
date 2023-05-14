@@ -1,1 +1,2 @@
 # sql-scripts.
+Algorithm - Hackathon 🥷🏻
